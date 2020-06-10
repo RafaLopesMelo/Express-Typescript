@@ -13,6 +13,7 @@ O objetivo deste projeto é apenas para estudos da integração do ExpressJS com
 - #### Linguagem: TypeScript
 
 - ExpressJS (Framework minimalista para NodeJS)
+- KnexJS (Query Builder para lidar com banco de dados SQL)
 - SQLite3 (Banco de dados SQL embutido)
 
 ## 💾 Instalação
